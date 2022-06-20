@@ -1,0 +1,107 @@
+import {StyleSheet} from 'react-native';
+import {Fonts} from 'resources/Fonts';
+
+const styles = StyleSheet.create({
+  container: {
+    // padding: 10,
+    // flexDirection: 'row',
+    // backgroundColor: '#fff',
+    // borderTopLeftRadius: 20,
+    // borderTopRightRadius: 20,
+    // justifyContent: 'space-around',
+    // alignItems: 'center',
+    // shadowColor: 'rgb(214, 214, 214)',
+    // shadowOffset: {
+    //   width: 0,
+    //   height: -3,
+    // },
+    // shadowOpacity: 0.25,
+    // shadowRadius: 4,
+    // elevation: 19,
+    position: 'absolute',
+    width: '100%',
+    height: 88,
+    backgroundColor: 'rgba(52, 52, 52, 0.0)',
+    paddingVertical: 8,
+    paddingHorizontal: 55,
+    bottom: 0,
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    flexDirection: 'row',
+    zIndex: 30,
+  },
+  containerCourier: {
+    padding: 10,
+    flexDirection: 'row',
+    backgroundColor: '#fff',
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    justifyContent: 'space-around',
+    alignItems: 'center',
+    shadowColor: 'rgb(214, 214, 214)',
+    shadowOffset: {
+      width: 0,
+      height: -3,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 4,
+    elevation: 19,
+  },
+  container1: {
+    // backgroundColor: 'rgba(255, 255, 255, 0.1)',
+    backgroundColor: 'rgba(52, 52, 52, 0.0)',
+    shadowColor: 'rgb(0, 0, 0)',
+    shadowOffset: {
+      width: 0,
+      height: -9,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 8,
+    // elevation: 1,
+    zIndex: 20,
+  },
+  cart: {
+    position: 'absolute',
+    left: '40%',
+    bottom: 50,
+    backgroundColor: '#fff',
+    borderRadius: 50,
+    width: 80,
+    height: 80,
+    justifyContent: 'center',
+    alignItems: 'center',
+    shadowColor: 'rgb(214, 214, 214)',
+    shadowOffset: {
+      width: 0,
+      height: -3,
+    },
+    shadowOpacity: 0.85,
+    shadowRadius: 8,
+    elevation: 19,
+  },
+  item: {
+    padding: 7,
+    alignItems: 'center',
+  },
+  menuItemImgContainer: {
+    justifyContent: 'center',
+  },
+  img: {
+    height: 32,
+    width: 32,
+  },
+  menuItemText: {
+    fontSize: 16,
+    marginTop: 5,
+    color: '#BFBFBF',
+    fontFamily: Fonts.SFProRoundedRegular,
+  },
+  menuItemTextActive: {
+    fontSize: 17,
+    marginTop: 5,
+    color: '#EE5B30',
+    fontFamily: Fonts.SFProRoundedRegular,
+  },
+});
+
+export default styles;

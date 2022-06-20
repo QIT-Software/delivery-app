@@ -1,0 +1,8 @@
+const prefix = 'ADDRESS_DROP_MENU_';
+
+export default {
+  CONFIRM: `${prefix}CONFIRM`,
+  CHOOSE_ADDRESS: `${prefix}FETCH_ADDRESS`,
+  CHOOSE_ADDRESS_COMPLETE: `${prefix}FETCH_ADDRESS_COMPLETE`,
+  CREATE_ADDRESS: `${prefix}CREATE_ADDRESS`,
+};

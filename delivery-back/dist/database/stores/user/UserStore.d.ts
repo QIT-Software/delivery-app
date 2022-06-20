@@ -1,0 +1,43 @@
+import { Repository, Connection } from 'typeorm';
+import IUserStore, { GetCouriersFilter } from './IUserStore';
+import User from '../../entities/User';
+import { ID } from 'entities/Common';
+import Client from 'database/entities/Client';
+import Admin from 'database/entities/Admin';
+import Courier from 'database/entities/Courier';
+import Order from 'database/entities/Order';
+import Address from 'database/entities/Address';
+import LatLng from '../../../entities/LatLng';
+export default class UserStore implements IUserStore {
+    private connection;
+    private readonly repository;
+    private readonly clientRepository;
+    private readonly courierRepository;
+    private readonly orderRepository;
+    private readonly addressRepository;
+    private readonly adminRepository;
+    constructor(connection: Connection, repository: Repository<User>, clientRepository: Repository<Client>, courierRepository: Repository<Courier>, orderRepository: Repository<Order>, addressRepository: Repository<Address>, adminRepository: Repository<Admin>);
+    getUser(userId: ID): Promise<User>;
+    getUserOrFail(userId: ID): Promise<User>;
+    createUser(user: Partial<User>): Promise<User>;
+    createClientIfNotExists(userId: string): Promise<Client>;
+    createCourierIfNotExists(userId: string): Promise<Courier>;
+    getClientOrThrow(userId: ID): Promise<Client>;
+    getCourierByUserIdOrThrow(userId: ID): Promise<Courier>;
+    getClientById(id: string): Promise<Client>;
+    getCourierById(id: string): Promise<Courier>;
+    getCourierByIdOrThrow(id: ID): Promise<Courier>;
+    updateLocation(userId: ID, latLng: LatLng): Promise<void>;
+    updateClientInformation(id: string, name: string, email: string, phoneNumber: string): Promise<void>;
+    updateCourierInformation(id: string, name: string, email: string, phoneNumber: string): Promise<void>;
+    getClients(): Promise<Client[]>;
+    getCouriers(filter?: GetCouriersFilter): Promise<Courier[]>;
+    getEnabledAdmins(): Promise<Admin[]>;
+    updateUser(userId: string, data: {
+        name: string;
+        email: string;
+        phoneNumber: string;
+        allowNotifications: boolean;
+    }): Promise<void>;
+    updateUserImage(userId: string, imageId: string): Promise<void>;
+}

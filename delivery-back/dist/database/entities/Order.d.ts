@@ -1,0 +1,34 @@
+import Restaurant from './Restaurant';
+import Bag from 'database/entities/Bag';
+import Cart from 'database/entities/Cart';
+import Set from 'database/entities/Set';
+import Client from 'database/entities/Client';
+import Courier from 'database/entities/Courier';
+import { OrderPlacement, OrderState } from 'entities/Order';
+import OrderMark from 'database/entities/OrderMark';
+import OrderInfo from './OrderInfo';
+export default class Order {
+    constructor(id: string, number: number, bag: Bag, cart: Cart, cartId: string, set: Set, orderInfo: OrderInfo, state: OrderState, created: Date, client: Client, clientId: string, courier: Courier, courierId: string, restaurant: Restaurant, restaurantId: string, placement: OrderPlacement, rating: number, clientCheckout: OrderMark, courierCheckin: OrderMark, courierCheckout: OrderMark, restaurantCheckout: OrderMark, date: Date);
+    id: string;
+    number: number;
+    bag?: Bag;
+    cart: Cart;
+    cartId: string;
+    set: Set;
+    orderInfo: OrderInfo;
+    state: OrderState;
+    created: Date;
+    client?: Client;
+    clientId: string;
+    courier?: Courier;
+    courierId: string;
+    restaurant?: Restaurant;
+    restaurantId: string;
+    placement: OrderPlacement;
+    rating: number;
+    clientCheckout?: OrderMark;
+    courierCheckin?: OrderMark;
+    courierCheckout?: OrderMark;
+    restaurantCheckout?: OrderMark;
+    date: Date;
+}

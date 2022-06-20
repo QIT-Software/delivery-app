@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Values from default config. -->
+    <string name="App" translatable="false">"client"</string>
+    <string name="REACT_APP_LINKING_SCHEMA" translatable="false">"spoonandfork-client"</string>
+    <string name="build_config_package" translatable="false">com.spoonandfork</string>
+
+</resources>

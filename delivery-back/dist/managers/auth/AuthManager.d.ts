@@ -1,0 +1,47 @@
+import IAuthManager from './IAuthManager';
+import AuthResponse from '../../entities/AuthResponse';
+import IUserStore from '../../database/stores/user/IUserStore';
+import ILoginStore from '../../database/stores/login/ILoginStore';
+import LocalLogin from '../../database/entities/LocalLogin';
+import ISessionStore from '../../database/stores/session/ISessionStore';
+import { IJwtService } from './jwt/IJwtService';
+import AppSession from 'entities/Session';
+import { ID } from 'entities/Common';
+import AppType from 'entities/AppType';
+import { Platform } from 'entities/Platform';
+import INotificationService from 'services/notification/INotificationService';
+import IPreferencesStore from 'database/stores/preferences/IPreferencesStore';
+import User from 'database/entities/User';
+import IDocumentStore from 'database/stores/document/IDocumentStore';
+export default class AuthManager extends IAuthManager {
+    private readonly userStore;
+    private readonly loginStore;
+    private readonly sessionStore;
+    private readonly documentStore;
+    private readonly preferencesStore;
+    private readonly jwtService;
+    private readonly notificationService;
+    constructor(userStore: IUserStore, loginStore: ILoginStore, sessionStore: ISessionStore, documentStore: IDocumentStore, preferencesStore: IPreferencesStore, jwtService: IJwtService, notificationService: INotificationService);
+    register(appType: AppType, platform: Platform, email: string, password: string, name: string, phoneNumber: string): Promise<AuthResponse>;
+    registerRestaurant(appType: AppType, platform: Platform, email: string, password: string, name: string, phoneNumber: string): Promise<User>;
+    login(appType: AppType, platform: Platform, email: string, password: string): Promise<AuthResponse>;
+    private static checkPasswordOrThrow;
+    private findLoginOrThrow;
+    private createLocalLogin;
+    private static createPasswordHash;
+    private static isPasswordValid;
+    private static createCryptoToken;
+    private createSession;
+    refresh(refreshToken: string): Promise<{
+        jwt: string;
+        refreshToken: string;
+    }>;
+    private createSessionInfo;
+    getSessionFromTokenOrThrow(jwt: string): Promise<AppSession>;
+    validateSessionOrThrow(jwt: string): Promise<AppSession>;
+    private static generateNewPassword;
+    recoverPassword(email: string): Promise<void>;
+    updatePassword(login: LocalLogin, password: string): Promise<void>;
+    changePassword(userId: ID, oldPassword: string, password: string): Promise<void>;
+    updateFirebaseToken(token: string, registrationId: string): Promise<void>;
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.spoonandfork.app.courier",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "app-courier-develop-debug.apk",
+        "fullName": "courierDevelopDebug",
+        "baseName": "courier-develop-debug",
+        "dirName": ""
+      },
+      "path": "resources-courierDevelopDebug.ap_",
+      "properties": {
+        "packageId": "com.spoonandfork.app.courier",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}

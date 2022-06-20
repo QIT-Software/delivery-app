@@ -1,0 +1,6 @@
+const prefix = 'CUISINE_';
+
+export default {
+  FETCH_FAVORITE_SETS: `${prefix}FETCH_FAVORITE_SETS`,
+  FETCH_FAVORITE_SETS_COMPLETE: `${prefix}FETCH_FAVORITE_SETS_COMPLETE`,
+};

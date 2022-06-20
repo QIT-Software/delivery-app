@@ -1,0 +1,600 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from [hermes-debug.aar] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\192799621bd902e2be1f00dac7063ec0\jetified-hermes-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_async-storage-backend-legacy] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\@react-native-community\async-storage-backend-legacy\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_geolocation] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-build-config] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-build-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-config] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
+MERGED from [:react-native-fast-image] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-localize] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-mixpanel] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-mixpanel\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-permissions] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-snackbar] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-svg] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:rn-secure-storage] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\rn-secure-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\36d011cb610b1179d9b5bfd9cdfec3cd\jetified-react-native-0.62.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\aab5293454cabe85272e9de04d494d57\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\19f5ab89877bc0776fed45e48f261ece\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\2182ff6daeb231eeb9f3def5e27762bb\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\226817fd352d0debd037c03d8ec9b5c1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\db6ea2a636bcb3ab9eb7b581c5db983e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-linear-gradient] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3b8a4cd57dcd7fb4105f916ddbf7b04c\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\310bfdb47e555b165121893c1beffd49\jetified-ucrop-2.2.5-native\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\396e7ddea1addefd32f4f3d87ec48909\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\48149870f4c04ad6fb8a03a8c24aa131\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b342e2a2ef4aa21b0793d6d5783c389e\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\a690a8d2837471805c44278675b77a48\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c5f1321226750dc4797ff1bc353dc5f3\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\338ef9930ed55e51db00b0387870054c\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\dca53aa6dcf6f6d8ed6095ca7d23e6de\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb35872c2a2dad9143574d24b5b30ace\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\135f925b3c319ef7638e748744b41bdf\jetified-soloader-0.8.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.browser:browser:1.3.0-alpha05] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3dcb8d9b8eafc6b7675083e8c01d3615\browser-1.3.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ae1be6d96d300b045ae2520a77aabf40\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e66da8b5301e9a6b4d099a6eed9ee5b8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7369d370d1c3f03944cff7adb4eeb0ab\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6435850e23f2d01013861f1c8dbdb3a0\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b4cf759fbefe631836a911785c931842\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\92ce016465e3a6bb2a1c0eeefed0193e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\47ce40ad459cbf22b0d81e337967e729\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ed62775c58d00d3809b67bee6e0a138\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\a627fcb45e915e30c8b945b04c690af1\exifinterface-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cbc1daf385a49114ec47e7a25c34003a\transition-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3572d8a23ef5ab7af97b0d6013f342da\jetified-play-services-vision-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf701184cb284afcaa68a6fadbfff89e\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b51f37ddd6b53c77132cf0d7c8acd657\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b635f6585e99f8e49c229d695b83eb7d\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\445c28360566e2f5abf26a4198eb5538\jetified-play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d89e6b746517771592a82b3984fdfc47\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\61b6250f2312bb6eaf48524efa92324f\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4a929dd5da9b3523b8f1ddfe5205ecb7\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e40e3efd5a968ec9847eae2ae9c7d8ac\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\148f2fd794536689e5a7e95e250ac390\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bd24342c93fd52cb5e9c9c7bb35f50f1\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\831d03cbe262bb771a6d4dc09c377944\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6984223d1aa8f315c8c42812a9db3a3b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ee2c6fbb04620a960d68455ede34459\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\2be247bf8cbe2dd724b705391ddac84d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ccd497c0d55509e00fa2c4ec5a0ae967\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5d880c01bc106322c4b2a83be9757563\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\57d4ae6adbb5ccfa9dafa8ad36f43ff8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6cdf211888e0a7ccbf81d39b63072413\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\324b5866ad2c13339651997b434b41f3\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\adb371d4d53f86eab98a28717d70cc7e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6ca55331635d9ca1071738b385928a75\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf3e5eb0de5dbaf7174c5a9a34f69c5a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d5fd7fbc692311a845217063332ce16c\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\705071dba30571a9226503cb1f0dac80\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f15487c13029c5c78640eedfe3e4179f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b77454809810e03ad1b0b8586694d509\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\59b723f090061559cc5b6f12f2aff3bc\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6750b43e205c4f520c814d38be8b2dbe\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4585a9ad75e82c7c92523d92d109b415\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d831d74eee9f185c588b244b4025c98f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d2f6728084b194d5acb4895053b25eee\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mixpanel.android:mixpanel-android:5.6.8] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c11a915a8ae85f97ae6205ec60aee984\jetified-mixpanel-android-5.6.8\AndroidManifest.xml:2:1-84:12
+MERGED from [com.scottyab:secure-preferences-lib:0.1.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5abdb61273f93197f6e1742a3af87f49\jetified-secure-preferences-lib-0.1.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b19dcfc72a8b5ad080b943f612016aee\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b20798433ef712573465ed686a2f5328\jetified-annotation-0.8.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.scottyab:aes-crypto:0.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7afd1d7128993068dd2958c72c5b77dd\jetified-aes-crypto-0.0.4\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-maps] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:5.6.8] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c11a915a8ae85f97ae6205ec60aee984\jetified-mixpanel-android-5.6.8\AndroidManifest.xml:10:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:5.6.8] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c11a915a8ae85f97ae6205ec60aee984\jetified-mixpanel-android-5.6.8\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:5:5-65
+MERGED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:8:5-81
+MERGED from [:react-native-maps] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission-sdk-23#android.permission.VIBRATE
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:10:29-70
+application
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-16:19
+MERGED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-16:19
+MERGED from [:react-native-splash-screen] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\36d011cb610b1179d9b5bfd9cdfec3cd\jetified-react-native-0.62.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\36d011cb610b1179d9b5bfd9cdfec3cd\jetified-react-native-0.62.2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\19f5ab89877bc0776fed45e48f261ece\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\19f5ab89877bc0776fed45e48f261ece\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\135f925b3c319ef7638e748744b41bdf\jetified-soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\135f925b3c319ef7638e748744b41bdf\jetified-soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ae1be6d96d300b045ae2520a77aabf40\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ae1be6d96d300b045ae2520a77aabf40\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b4cf759fbefe631836a911785c931842\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b4cf759fbefe631836a911785c931842\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ed62775c58d00d3809b67bee6e0a138\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ed62775c58d00d3809b67bee6e0a138\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3572d8a23ef5ab7af97b0d6013f342da\jetified-play-services-vision-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3572d8a23ef5ab7af97b0d6013f342da\jetified-play-services-vision-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf701184cb284afcaa68a6fadbfff89e\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf701184cb284afcaa68a6fadbfff89e\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b51f37ddd6b53c77132cf0d7c8acd657\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b51f37ddd6b53c77132cf0d7c8acd657\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b635f6585e99f8e49c229d695b83eb7d\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b635f6585e99f8e49c229d695b83eb7d\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d89e6b746517771592a82b3984fdfc47\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d89e6b746517771592a82b3984fdfc47\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\61b6250f2312bb6eaf48524efa92324f\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\61b6250f2312bb6eaf48524efa92324f\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4a929dd5da9b3523b8f1ddfe5205ecb7\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4a929dd5da9b3523b8f1ddfe5205ecb7\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6cdf211888e0a7ccbf81d39b63072413\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6cdf211888e0a7ccbf81d39b63072413\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\324b5866ad2c13339651997b434b41f3\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\324b5866ad2c13339651997b434b41f3\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d2f6728084b194d5acb4895053b25eee\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d2f6728084b194d5acb4895053b25eee\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.mixpanel.android:mixpanel-android:5.6.8] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c11a915a8ae85f97ae6205ec60aee984\jetified-mixpanel-android-5.6.8\AndroidManifest.xml:15:5-82:19
+MERGED from [com.mixpanel.android:mixpanel-android:5.6.8] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c11a915a8ae85f97ae6205ec60aee984\jetified-mixpanel-android-5.6.8\AndroidManifest.xml:15:5-82:19
+MERGED from [com.scottyab:secure-preferences-lib:0.1.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5abdb61273f93197f6e1742a3af87f49\jetified-secure-preferences-lib-0.1.4\AndroidManifest.xml:11:5-12:19
+MERGED from [com.scottyab:secure-preferences-lib:0.1.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5abdb61273f93197f6e1742a3af87f49\jetified-secure-preferences-lib-0.1.4\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b20798433ef712573465ed686a2f5328\jetified-annotation-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b20798433ef712573465ed686a2f5328\jetified-annotation-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7afd1d7128993068dd2958c72c5b77dd\jetified-aes-crypto-0.0.4\AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7afd1d7128993068dd2958c72c5b77dd\jetified-aes-crypto-0.0.4\AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6cdf211888e0a7ccbf81d39b63072413\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:17:9-54
+	tools:targetApi
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:14:9-36
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:14:9-36
+	android:theme
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.spoonandfork.SplashActivity
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:19:9-22:49
+	android:label
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:20:13-43
+activity#com.spoonandfork.MainActivity
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:23:9-34:20
+	android:label
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:27:13-45
+	android:launchMode
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:28:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:29:13-52
+	android:exported
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:26:13-36
+	android:configChanges
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:25:13-90
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:35:9-86
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:35:19-83
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:37:9-39:71
+	android:value
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:39:13-68
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:38:13-58
+uses-sdk
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml
+MERGED from [hermes-debug.aar] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\192799621bd902e2be1f00dac7063ec0\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\192799621bd902e2be1f00dac7063ec0\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_async-storage-backend-legacy] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\@react-native-community\async-storage-backend-legacy\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage-backend-legacy] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\@react-native-community\async-storage-backend-legacy\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-build-config] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-build-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-build-config] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-build-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-fast-image] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-mixpanel] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-mixpanel\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-mixpanel] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-mixpanel\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-permissions] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-snackbar] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-snackbar\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-secure-storage] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\rn-secure-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-secure-storage] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\rn-secure-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\36d011cb610b1179d9b5bfd9cdfec3cd\jetified-react-native-0.62.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\36d011cb610b1179d9b5bfd9cdfec3cd\jetified-react-native-0.62.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\aab5293454cabe85272e9de04d494d57\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\aab5293454cabe85272e9de04d494d57\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\19f5ab89877bc0776fed45e48f261ece\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\19f5ab89877bc0776fed45e48f261ece\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\2182ff6daeb231eeb9f3def5e27762bb\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\2182ff6daeb231eeb9f3def5e27762bb\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\226817fd352d0debd037c03d8ec9b5c1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\226817fd352d0debd037c03d8ec9b5c1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\db6ea2a636bcb3ab9eb7b581c5db983e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\db6ea2a636bcb3ab9eb7b581c5db983e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-linear-gradient] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3b8a4cd57dcd7fb4105f916ddbf7b04c\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3b8a4cd57dcd7fb4105f916ddbf7b04c\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\310bfdb47e555b165121893c1beffd49\jetified-ucrop-2.2.5-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\310bfdb47e555b165121893c1beffd49\jetified-ucrop-2.2.5-native\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\396e7ddea1addefd32f4f3d87ec48909\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\396e7ddea1addefd32f4f3d87ec48909\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\48149870f4c04ad6fb8a03a8c24aa131\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\48149870f4c04ad6fb8a03a8c24aa131\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b342e2a2ef4aa21b0793d6d5783c389e\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b342e2a2ef4aa21b0793d6d5783c389e\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\a690a8d2837471805c44278675b77a48\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\a690a8d2837471805c44278675b77a48\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c5f1321226750dc4797ff1bc353dc5f3\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c5f1321226750dc4797ff1bc353dc5f3\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\338ef9930ed55e51db00b0387870054c\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\338ef9930ed55e51db00b0387870054c\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\dca53aa6dcf6f6d8ed6095ca7d23e6de\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\dca53aa6dcf6f6d8ed6095ca7d23e6de\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb35872c2a2dad9143574d24b5b30ace\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb35872c2a2dad9143574d24b5b30ace\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\135f925b3c319ef7638e748744b41bdf\jetified-soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\135f925b3c319ef7638e748744b41bdf\jetified-soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.browser:browser:1.3.0-alpha05] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3dcb8d9b8eafc6b7675083e8c01d3615\browser-1.3.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0-alpha05] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3dcb8d9b8eafc6b7675083e8c01d3615\browser-1.3.0-alpha05\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ae1be6d96d300b045ae2520a77aabf40\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ae1be6d96d300b045ae2520a77aabf40\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e66da8b5301e9a6b4d099a6eed9ee5b8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e66da8b5301e9a6b4d099a6eed9ee5b8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7369d370d1c3f03944cff7adb4eeb0ab\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7369d370d1c3f03944cff7adb4eeb0ab\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6435850e23f2d01013861f1c8dbdb3a0\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6435850e23f2d01013861f1c8dbdb3a0\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b4cf759fbefe631836a911785c931842\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b4cf759fbefe631836a911785c931842\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\92ce016465e3a6bb2a1c0eeefed0193e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\92ce016465e3a6bb2a1c0eeefed0193e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\47ce40ad459cbf22b0d81e337967e729\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\47ce40ad459cbf22b0d81e337967e729\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ed62775c58d00d3809b67bee6e0a138\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ed62775c58d00d3809b67bee6e0a138\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\a627fcb45e915e30c8b945b04c690af1\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\a627fcb45e915e30c8b945b04c690af1\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cbc1daf385a49114ec47e7a25c34003a\transition-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cbc1daf385a49114ec47e7a25c34003a\transition-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3572d8a23ef5ab7af97b0d6013f342da\jetified-play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\3572d8a23ef5ab7af97b0d6013f342da\jetified-play-services-vision-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf701184cb284afcaa68a6fadbfff89e\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf701184cb284afcaa68a6fadbfff89e\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b51f37ddd6b53c77132cf0d7c8acd657\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b51f37ddd6b53c77132cf0d7c8acd657\jetified-play-services-vision-common-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b635f6585e99f8e49c229d695b83eb7d\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b635f6585e99f8e49c229d695b83eb7d\jetified-play-services-clearcut-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\445c28360566e2f5abf26a4198eb5538\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\445c28360566e2f5abf26a4198eb5538\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d89e6b746517771592a82b3984fdfc47\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d89e6b746517771592a82b3984fdfc47\jetified-play-services-phenotype-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\61b6250f2312bb6eaf48524efa92324f\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\61b6250f2312bb6eaf48524efa92324f\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4a929dd5da9b3523b8f1ddfe5205ecb7\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4a929dd5da9b3523b8f1ddfe5205ecb7\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e40e3efd5a968ec9847eae2ae9c7d8ac\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\e40e3efd5a968ec9847eae2ae9c7d8ac\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\148f2fd794536689e5a7e95e250ac390\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\148f2fd794536689e5a7e95e250ac390\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bd24342c93fd52cb5e9c9c7bb35f50f1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bd24342c93fd52cb5e9c9c7bb35f50f1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\831d03cbe262bb771a6d4dc09c377944\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\831d03cbe262bb771a6d4dc09c377944\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6984223d1aa8f315c8c42812a9db3a3b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6984223d1aa8f315c8c42812a9db3a3b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ee2c6fbb04620a960d68455ede34459\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4ee2c6fbb04620a960d68455ede34459\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\2be247bf8cbe2dd724b705391ddac84d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\2be247bf8cbe2dd724b705391ddac84d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ccd497c0d55509e00fa2c4ec5a0ae967\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\ccd497c0d55509e00fa2c4ec5a0ae967\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5d880c01bc106322c4b2a83be9757563\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5d880c01bc106322c4b2a83be9757563\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\57d4ae6adbb5ccfa9dafa8ad36f43ff8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\57d4ae6adbb5ccfa9dafa8ad36f43ff8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6cdf211888e0a7ccbf81d39b63072413\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6cdf211888e0a7ccbf81d39b63072413\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\324b5866ad2c13339651997b434b41f3\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\324b5866ad2c13339651997b434b41f3\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\adb371d4d53f86eab98a28717d70cc7e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\adb371d4d53f86eab98a28717d70cc7e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6ca55331635d9ca1071738b385928a75\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6ca55331635d9ca1071738b385928a75\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf3e5eb0de5dbaf7174c5a9a34f69c5a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\bf3e5eb0de5dbaf7174c5a9a34f69c5a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d5fd7fbc692311a845217063332ce16c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d5fd7fbc692311a845217063332ce16c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\705071dba30571a9226503cb1f0dac80\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\705071dba30571a9226503cb1f0dac80\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f15487c13029c5c78640eedfe3e4179f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f15487c13029c5c78640eedfe3e4179f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b77454809810e03ad1b0b8586694d509\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b77454809810e03ad1b0b8586694d509\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\59b723f090061559cc5b6f12f2aff3bc\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\59b723f090061559cc5b6f12f2aff3bc\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6750b43e205c4f520c814d38be8b2dbe\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6750b43e205c4f520c814d38be8b2dbe\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4585a9ad75e82c7c92523d92d109b415\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\4585a9ad75e82c7c92523d92d109b415\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d831d74eee9f185c588b244b4025c98f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d831d74eee9f185c588b244b4025c98f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d2f6728084b194d5acb4895053b25eee\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d2f6728084b194d5acb4895053b25eee\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.mixpanel.android:mixpanel-android:5.6.8] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c11a915a8ae85f97ae6205ec60aee984\jetified-mixpanel-android-5.6.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mixpanel.android:mixpanel-android:5.6.8] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c11a915a8ae85f97ae6205ec60aee984\jetified-mixpanel-android-5.6.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.scottyab:secure-preferences-lib:0.1.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5abdb61273f93197f6e1742a3af87f49\jetified-secure-preferences-lib-0.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scottyab:secure-preferences-lib:0.1.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\5abdb61273f93197f6e1742a3af87f49\jetified-secure-preferences-lib-0.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b19dcfc72a8b5ad080b943f612016aee\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b19dcfc72a8b5ad080b943f612016aee\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b20798433ef712573465ed686a2f5328\jetified-annotation-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\b20798433ef712573465ed686a2f5328\jetified-annotation-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scottyab:aes-crypto:0.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7afd1d7128993068dd2958c72c5b77dd\jetified-aes-crypto-0.0.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:aes-crypto:0.0.4] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7afd1d7128993068dd2958c72c5b77dd\jetified-aes-crypto-0.0.4\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:15:9-57
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+	android:enabled
+		ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-79
+	android:name
+		ADDED from [:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:25-76
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-60
+activity#com.proyecto26.inappbrowser.ChromeTabsManagerActivity
+ADDED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from [:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-87
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:22-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d2f6728084b194d5acb4895053b25eee\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\d2f6728084b194d5acb4895053b25eee\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:22-107

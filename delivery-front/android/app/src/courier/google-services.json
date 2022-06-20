@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "668429680521",
+    "firebase_url": "https://decisive-coder-283507.firebaseio.com",
+    "project_id": "decisive-coder-283507",
+    "storage_bucket": "decisive-coder-283507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668429680521:android:cd1bf5417d4b791f702b58",
+        "android_client_info": {
+          "package_name": "com.spoonandfork.app.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668429680521-ujlhq2rcnljrjt7nhbj2fpfdbcmsinim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9LrkhDOhHSW1gCQu9JFhz6-KFf0ivoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668429680521-ujlhq2rcnljrjt7nhbj2fpfdbcmsinim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668429680521-plc8q8kcdu7bhrqikob6dkdjddl4q41h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spryrocks.spoonandfork"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668429680521:android:6e7c6ecca683c7d8702b58",
+        "android_client_info": {
+          "package_name": "com.spoonandfork.app.courier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668429680521-ujlhq2rcnljrjt7nhbj2fpfdbcmsinim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9LrkhDOhHSW1gCQu9JFhz6-KFf0ivoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668429680521-ujlhq2rcnljrjt7nhbj2fpfdbcmsinim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668429680521-plc8q8kcdu7bhrqikob6dkdjddl4q41h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spryrocks.spoonandfork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

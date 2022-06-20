@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\drawable-nodpi_launch_screen_logo_name.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\drawable-nodpi\\launch_screen_logo_name.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\drawable-nodpi_drawable.xml.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\drawable-nodpi\\drawable.xml"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\layout_launch_screen.xml.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\drawable-nodpi_launch_screen_logo_img.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\drawable-nodpi\\launch_screen_logo_img.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\drawable-nodpi_splash.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\drawable-nodpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\build\\intermediates\\res\\merged\\clientDevelop\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Backyard\\fork\\spoon-and-fork-mobile\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

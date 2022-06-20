@@ -1,0 +1,41 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 50px 0 50px;
+}
+.Approved {
+  color: #3CB839;
+}
+.Verifying {
+  color: #E7A90A;
+}
+.Reject {
+  color: #D60000;
+}
+
+.tabs {
+  display: flex;
+
+  p {
+    padding: 8px 24px;
+    margin-right: 15px;
+    border-radius: 10px 10px 0 0;
+  }
+
+  &__tab {
+    background-color: rgba(252, 112, 54, 0);
+    color: rgb(252, 112, 54);
+    transition: all 0.3s;
+
+    &:hover {
+      background-color: rgba(252, 112, 54, 0.14);
+      transition: all 0.3s;
+    }
+  }
+
+  &__activeTab {
+    background: rgba(252, 112, 54, 0.75);
+    color: #fff;
+  }
+}

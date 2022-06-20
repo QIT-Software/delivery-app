@@ -1,0 +1,221 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.spoonandfork.app.courier"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:5:5-65
+13-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:6:5-81
+14-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:7:5-79
+15-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:7:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:8:5-81
+16-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:8:22-78
+17
+18    <uses-permission-sdk-23 android:name="android.permission.VIBRATE" />
+18-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:10:5-73
+18-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:10:29-70
+19
+20    <uses-feature
+20-->[:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
+21        android:name="android.hardware.camera"
+21-->[:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:12:9-47
+22        android:required="false" />
+22-->[:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:13:9-33
+23    <uses-feature
+23-->[:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.camera.autofocus"
+24-->[:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:15:9-57
+25        android:required="false" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+25-->[:react-native-camera] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:16:9-33
+26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- Include required permissions for Google Maps API to run. -->
+26-->[com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+26-->[com.google.android.gms:play-services-iid:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\c4787e68ed26c2d5f55994c8c8062d25\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:22-79
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+27-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+28
+29    <uses-feature
+29-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+30        android:glEsVersion="0x00020000"
+30-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+31        android:required="true" />
+31-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+32
+33    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+33-->[com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:5-110
+33-->[com.android.installreferrer:installreferrer:1.1.2] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\cb53095609b5a16ab25271288e844596\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:22-107
+34
+35    <application
+35-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:12:5-40:19
+36        android:name="com.spoonandfork.MainApplication"
+36-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:13:9-40
+37        android:allowBackup="false"
+37-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:14:9-36
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.1.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\6cdf211888e0a7ccbf81d39b63072413\core-1.1.0\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_launcher"
+40-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:15:9-43
+41        android:label="@string/app_name"
+41-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:16:9-41
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:17:9-54
+43        android:testOnly="true"
+44        android:theme="@style/AppTheme"
+44-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:18:9-40
+45        android:usesCleartextTraffic="true" >
+45-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\debug\AndroidManifest.xml:7:18-53
+46        <activity
+46-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:19:9-22:49
+47            android:name="com.spoonandfork.SplashActivity"
+47-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:20:13-43
+48            android:label="@string/app_name"
+48-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:21:13-45
+49            android:theme="@style/SplashTheme" />
+49-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:22:13-47
+50        <activity
+50-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:23:9-34:20
+51            android:name="com.spoonandfork.MainActivity"
+51-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:24:13-41
+52            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+52-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:25:13-90
+53            android:exported="true"
+53-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:26:13-36
+54            android:label="@string/app_name"
+54-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:27:13-45
+55            android:launchMode="singleTask"
+55-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:28:13-44
+56            android:windowSoftInputMode="adjustPan" >
+56-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:29:13-52
+57            <intent-filter>
+57-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:30:13-33:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:31:17-69
+58-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:31:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:32:17-77
+60-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:32:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+63-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:35:9-86
+63-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:35:19-83
+64
+65        <meta-data
+65-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:37:9-39:71
+66            android:name="com.google.android.geo.API_KEY"
+66-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:38:13-58
+67            android:value="AIzaSyDnD_3GhOlEg6lsmIF03pKiL_w__hJM424" />
+67-->C:\Backyard\fork\spoon-and-fork-mobile\android\app\src\main\AndroidManifest.xml:39:13-68
+68
+69        <receiver
+69-->[:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+70            android:name="com.learnium.RNDeviceInfo.RNDeviceReceiver"
+70-->[:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-70
+71            android:enabled="true"
+71-->[:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-35
+72            android:exported="true" >
+72-->[:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-36
+73            <intent-filter>
+73-->[:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:29
+74                <action android:name="com.android.vending.INSTALL_REFERRER" />
+74-->[:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-79
+74-->[:react-native-device-info] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:25-76
+75            </intent-filter>
+76        </receiver>
+77
+78        <provider
+78-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+79            android:name="androidx.core.content.FileProvider"
+79-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-62
+80            android:authorities="com.spoonandfork.app.courier.provider"
+80-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
+81            android:exported="false"
+81-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+82            android:grantUriPermissions="true" >
+82-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-47
+83            <meta-data
+83-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:58
+84                android:name="android.support.FILE_PROVIDER_PATHS"
+84-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+85                android:resource="@xml/provider_paths" />
+85-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-55
+86        </provider>
+87
+88        <activity
+88-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-25:72
+89            android:name="com.yalantis.ucrop.UCropActivity"
+89-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-60
+90            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+90-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-69
+91        <activity android:name="com.proyecto26.inappbrowser.ChromeTabsManagerActivity" >
+91-->[:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-15:20
+91-->[:react-native-inappbrowser-reborn] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-87
+92        </activity>
+93
+94        <provider
+94-->[:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+95            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+95-->[:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+96            android:authorities="com.spoonandfork.app.courier.fileprovider"
+96-->[:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+97            android:exported="false"
+97-->[:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+98            android:grantUriPermissions="true" >
+98-->[:react-native-webview] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+99            <meta-data
+99-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:58
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+101                android:resource="@xml/file_provider_paths" />
+101-->[:react-native-image-crop-picker] C:\Backyard\fork\spoon-and-fork-mobile\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-55
+102        </provider>
+103
+104        <meta-data
+104-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+105            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+105-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+106            android:value="GlideModule" /> <!-- Needs to be explicitly declared on P+ -->
+106-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f30750233a97a4baddea203a9026c758\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+107        <uses-library
+107-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+108            android:name="org.apache.http.legacy"
+108-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+109            android:required="false" />
+109-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+110
+111        <activity
+111-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+112            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+112-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+113            android:exported="false"
+113-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+114            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+114-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\9d9f5eefb5bcc469207d44112eb03d4a\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+115
+116        <meta-data
+116-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+117            android:name="com.google.android.gms.version"
+117-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+118            android:value="@integer/google_play_services_version" />
+118-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\anton\.gradle\caches\transforms-2\files-2.1\f258e3825c6af3b14c7ec1616fae4742\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+119    </application>
+120
+121</manifest>

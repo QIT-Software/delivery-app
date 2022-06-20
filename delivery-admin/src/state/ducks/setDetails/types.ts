@@ -1,0 +1,13 @@
+const prefix = 'SET_';
+
+export default {
+  FETCH_DETAILS: `${prefix}FETCH_DETAILS`,
+  FETCH_DETAILS_COMPLETED: `${prefix}FETCH_DETAILS_COMPLETED`,
+  UPDATE_SET: `${prefix}UPDATE_SET`,
+  UPDATE_SET_COMPLETED: `${prefix}UPDATE_SET_COMPLETED`,
+  CREATE_SET: `${prefix}CREATE_SET`,
+  CREATE_SET_COMPLETED: `${prefix}CREATE_SET_COMPLETED`,
+  DELETE_SET: `${prefix}DELETE_SET`,
+  CLEAR: `${prefix}CLEAR`,
+  SUBMIT: `${prefix}SUBMIT`,
+};

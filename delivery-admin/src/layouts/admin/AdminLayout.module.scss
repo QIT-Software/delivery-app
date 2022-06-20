@@ -1,0 +1,61 @@
+@import "src/fonts/fonts";
+
+%aside__drawer {
+  width: 190px;
+  flex-shrink: 0;
+}
+
+.menuItemIcon {
+  width: 13px;
+}
+
+
+.adminContainer {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  &__aside {
+    &__drawer {
+      @extend %aside__drawer;
+      height: 100%;
+      &__logo{
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        img {
+          width: 170px;
+        }
+      }
+
+      &__list {
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        margin-top: 100px!important;
+        outline: none;
+        &__item {
+          margin: 10px 0 0 10px!important;
+          border-radius: 10px 0 0 8px!important;
+          padding: 12px 0 12px 20px!important;
+          &__text {
+            font-family: Roboto, sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            color: #fff;
+            margin-left: 12px;
+          }
+          &:last-child {
+            margin: auto 0 25px 10px !important;
+          }
+        }
+      }
+    }
+  }
+}
+.activeLink {
+  color: #EE5B30;
+}

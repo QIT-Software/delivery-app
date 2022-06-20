@@ -1,0 +1,57 @@
+%btn-shared {
+  border-radius: 10px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: #FFFFFF;
+  &:hover {
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+  }
+}
+
+%text-shared {
+  font-family: "Roboto", sans-serif;
+}
+
+:global(.MuiContainer-root) {
+  @media (min-width: 960px) {
+      padding-left: 85px !important;
+      padding-right: 85px !important;
+  }
+}
+
+.authContainer {
+  margin: 0 80px;
+  font-style: normal;
+  color: #090000;
+  display: flex;
+  @media (max-width:576px ) {
+    margin: 0;
+  }
+
+  &__paper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #EE5B30;
+    text-align: center;
+    border-radius: 10px;
+    padding: 25px 50px;
+
+    &__title {
+      @extend %text-shared;
+      margin-top: 75px;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 28px;
+    }
+
+    &__subTitle {
+      @extend %text-shared;
+      font-weight: 500;
+      font-size: 14px;
+      margin-top: 5px;
+    }
+  }
+}

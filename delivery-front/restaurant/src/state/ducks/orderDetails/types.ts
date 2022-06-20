@@ -1,0 +1,8 @@
+const prefix = 'COURIER_ORDER_DETAILS_';
+
+export default {
+  FETCH_ORDER_DETAILS: `${prefix}FETCH_ORDER_DETAILS`,
+  FETCH_ORDER_DETAILS_COMPLETE: `${prefix}FETCH_ORDER_DETAILS_COMPLETE`,
+  ACCEPT: `${prefix}ACCEPT`,
+  SUBMIT_ACCEPT: `${prefix}SUBMIT_ACCEPT`,
+};

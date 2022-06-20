@@ -1,0 +1,9 @@
+const prefix = 'COURIER_ORDERS_';
+
+export default {
+  FETCH_ORDERS: `${prefix}FETCH_ORDERS`,
+  FETCH_ORDERS_COMPLETED: `${prefix}FETCH_ORDERS_COMPLETED`,
+  SET_ORDER_TYPE: `${prefix}SET_ORDER_TYPE`,
+  ORDER_DETAILS: `${prefix}ORDER_DETAILS`,
+  ORDERS_BY_CART_ID: `${prefix}ORDERS_BY_CART_ID`,
+};

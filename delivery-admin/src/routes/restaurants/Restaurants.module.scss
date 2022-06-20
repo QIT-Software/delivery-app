@@ -1,0 +1,40 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 50px 0 50px;
+}
+.Approved {
+  color: #3CB839;
+}
+.Verifying {
+  color: #E7A90A;
+}
+.Reject {
+  color: #D60000;
+}
+.buttonContainer {
+  margin-bottom: 25px;
+}
+.createRestaurantButton {
+  background: rgb(252, 112, 54);
+  box-shadow: 0 2.24779px 2.24779px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 2px solid rgb(252, 112, 54);
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  outline: none;
+  padding: 9px 40px;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-decoration: none;
+
+  &:hover {
+    color: white;
+    background: rgba(252, 112, 54, 0.7);
+    transition: all 0.3s;
+  }
+}
+

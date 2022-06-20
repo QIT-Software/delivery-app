@@ -1,0 +1,7 @@
+const prefix = 'CLIENT_';
+
+export default {
+  FETCH_ORDERS_BY_CART_ID: `${prefix}FETCH_ORDERS_BY_CART_ID`,
+  FETCH_ORDERS_BY_CART_ID_COMPLETED: `${prefix}FETCH_ORDERS_BY_CART_ID_COMPLETED`,
+  SET_ORDER_TYPE: `${prefix}SET_ORDER_TYPE`,
+};

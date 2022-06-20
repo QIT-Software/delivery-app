@@ -1,0 +1,8 @@
+schema: schema.graphql
+generates:
+  ./shared/src/api/graphql/types.ts:
+    plugins:
+      - typescript
+config:
+  scalars:
+    DateTime: string
